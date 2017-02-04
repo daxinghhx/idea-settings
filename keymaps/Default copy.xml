@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="ResourceBundleEditorShowIntentions" />
+  <action id="ShowIntentionActions" />
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+</keymap>
