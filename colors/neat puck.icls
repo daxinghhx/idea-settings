@@ -1,4 +1,11 @@
-<scheme name="PaperColor-Dark" version="142" parent_scheme="Darcula">
+<scheme name="neat puck" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-02-04T14:27:22</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.3.4.0.0</property>
+    <property name="modified">2017-02-04T14:27:41</property>
+    <property name="originalScheme">PaperColor-Dark</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
