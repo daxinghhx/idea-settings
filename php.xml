@@ -11,8 +11,8 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="sftp://root@192.168.120.44:22/usr/local/bin/php" id="7050d118-0401-4490-8cc5-83f7eb3c7ba5" name="dev iphone" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="1321bde0-a357-4af0-a728-393a4e00af10" WEB_SERVER_CONFIG_NAME="192.168.120.44" HOST="192.168.120.44" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="dfffdfdadfc3dfcbdfc1dfc1dfc6df92df9adf83df99df89dfcbdfdadffbdfc1df98df9edf9adfe5dfc8df8fdfe9" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/bin/php" HELPERS_PATH="/private/var/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="sftp://root@192.168.116.161:22/usr/local/bin/php" id="7050d118-0401-4490-8cc5-83f7eb3c7ba5" name="dev iphone" debugger_id="php.debugger.XDebug">
+        <remote_data WEB_SERVER_CONFIG_ID="e1b0693e-cebe-4cc6-9d7f-08ee94f872cd" WEB_SERVER_CONFIG_NAME="26" HOST="192.168.116.161" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="dfffdfdadfc3dfcbdfc1dfc1dfc6df92df9adf83df99df89dfcbdfdadffbdfc1df98df9edf9adfe5dfc8df8fdfe9" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/bin/php" HELPERS_PATH="/private/var/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
