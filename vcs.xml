@@ -8,6 +8,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\wamp\www\tpAdmin" />
+    <option name="cloneParentDir" value="C:\wamp\www\" />
   </component>
 </application>
