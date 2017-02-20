@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Convert array to traditional syntax" />
+  </component>
+</application>
